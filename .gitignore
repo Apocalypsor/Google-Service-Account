@@ -123,3 +123,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+credentials.json
+client_emails.txt
+token.pickle
+accounts/
